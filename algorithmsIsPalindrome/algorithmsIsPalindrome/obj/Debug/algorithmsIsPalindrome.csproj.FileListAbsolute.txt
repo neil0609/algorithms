@@ -1,0 +1,5 @@
+C:\SF.Code\algorithmsIsPalindrome\algorithmsIsPalindrome\bin\Debug\algorithmsIsPalindrome.exe.config
+C:\SF.Code\algorithmsIsPalindrome\algorithmsIsPalindrome\bin\Debug\algorithmsIsPalindrome.exe
+C:\SF.Code\algorithmsIsPalindrome\algorithmsIsPalindrome\bin\Debug\algorithmsIsPalindrome.pdb
+C:\SF.Code\algorithmsIsPalindrome\algorithmsIsPalindrome\obj\Debug\algorithmsIsPalindrome.exe
+C:\SF.Code\algorithmsIsPalindrome\algorithmsIsPalindrome\obj\Debug\algorithmsIsPalindrome.pdb

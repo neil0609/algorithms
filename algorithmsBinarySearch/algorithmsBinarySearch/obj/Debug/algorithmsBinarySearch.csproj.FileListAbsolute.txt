@@ -1,0 +1,5 @@
+C:\SF.Code\algorithmsBinarySearch\algorithmsBinarySearch\bin\Debug\algorithmsBinarySearch.exe.config
+C:\SF.Code\algorithmsBinarySearch\algorithmsBinarySearch\bin\Debug\algorithmsBinarySearch.exe
+C:\SF.Code\algorithmsBinarySearch\algorithmsBinarySearch\bin\Debug\algorithmsBinarySearch.pdb
+C:\SF.Code\algorithmsBinarySearch\algorithmsBinarySearch\obj\Debug\algorithmsBinarySearch.exe
+C:\SF.Code\algorithmsBinarySearch\algorithmsBinarySearch\obj\Debug\algorithmsBinarySearch.pdb

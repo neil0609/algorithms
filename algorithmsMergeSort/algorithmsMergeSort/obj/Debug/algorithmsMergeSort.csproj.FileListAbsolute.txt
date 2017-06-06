@@ -1,0 +1,6 @@
+C:\SF.Code\algorithmsMergeSort\algorithmsMergeSort\bin\Debug\algorithmsMergeSort.exe.config
+C:\SF.Code\algorithmsMergeSort\algorithmsMergeSort\bin\Debug\algorithmsMergeSort.exe
+C:\SF.Code\algorithmsMergeSort\algorithmsMergeSort\bin\Debug\algorithmsMergeSort.pdb
+C:\SF.Code\algorithmsMergeSort\algorithmsMergeSort\obj\Debug\algorithmsMergeSort.csprojResolveAssemblyReference.cache
+C:\SF.Code\algorithmsMergeSort\algorithmsMergeSort\obj\Debug\algorithmsMergeSort.exe
+C:\SF.Code\algorithmsMergeSort\algorithmsMergeSort\obj\Debug\algorithmsMergeSort.pdb

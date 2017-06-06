@@ -1,0 +1,6 @@
+C:\SF.Code\algorithmsIsAnagram\algorithmsIsAnagram\bin\Debug\algorithmsIsAnagram.exe.config
+C:\SF.Code\algorithmsIsAnagram\algorithmsIsAnagram\bin\Debug\algorithmsIsAnagram.exe
+C:\SF.Code\algorithmsIsAnagram\algorithmsIsAnagram\bin\Debug\algorithmsIsAnagram.pdb
+C:\SF.Code\algorithmsIsAnagram\algorithmsIsAnagram\obj\Debug\algorithmsIsAnagram.csprojResolveAssemblyReference.cache
+C:\SF.Code\algorithmsIsAnagram\algorithmsIsAnagram\obj\Debug\algorithmsIsAnagram.exe
+C:\SF.Code\algorithmsIsAnagram\algorithmsIsAnagram\obj\Debug\algorithmsIsAnagram.pdb

@@ -1,0 +1,6 @@
+C:\SF.Code\algorithms\algorithms\bin\Debug\algorithms.exe.config
+C:\SF.Code\algorithms\algorithms\obj\Debug\algorithms.csprojResolveAssemblyReference.cache
+C:\SF.Code\algorithms\algorithms\bin\Debug\algorithms.exe
+C:\SF.Code\algorithms\algorithms\bin\Debug\algorithms.pdb
+C:\SF.Code\algorithms\algorithms\obj\Debug\algorithms.exe
+C:\SF.Code\algorithms\algorithms\obj\Debug\algorithms.pdb

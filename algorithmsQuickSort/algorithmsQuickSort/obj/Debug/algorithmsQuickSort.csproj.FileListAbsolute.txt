@@ -1,0 +1,6 @@
+C:\SF.Code\algorithmsQuickSort\algorithmsQuickSort\bin\Debug\algorithmsQuickSort.exe.config
+C:\SF.Code\algorithmsQuickSort\algorithmsQuickSort\bin\Debug\algorithmsQuickSort.exe
+C:\SF.Code\algorithmsQuickSort\algorithmsQuickSort\bin\Debug\algorithmsQuickSort.pdb
+C:\SF.Code\algorithmsQuickSort\algorithmsQuickSort\obj\Debug\algorithmsQuickSort.csprojResolveAssemblyReference.cache
+C:\SF.Code\algorithmsQuickSort\algorithmsQuickSort\obj\Debug\algorithmsQuickSort.exe
+C:\SF.Code\algorithmsQuickSort\algorithmsQuickSort\obj\Debug\algorithmsQuickSort.pdb
